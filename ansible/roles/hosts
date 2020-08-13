@@ -1,5 +1,0 @@
-[local]
-localhost
-
-[nginx]
-ec2-54-161-117-108.compute-1.amazonaws.com

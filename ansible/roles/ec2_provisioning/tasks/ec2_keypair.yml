@@ -1,6 +1,0 @@
----
-
-- name: Upload public key to AWS
-  ec2_key:
-    name: "{{ key_name }}"
-    key_material: "{{ lookup('file', '~/.ssh/{{ key_name }}.pub') }}"

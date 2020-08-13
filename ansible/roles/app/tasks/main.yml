@@ -1,9 +1,0 @@
----
-
-- name: Create Ngnix Container
-  docker_container:
-    name: "{{ container_name }}"
-    image: "{{ image_name }}"
-    state: started
-    ports:
-      - "{{ host_port }}:{{ container_port }}"
