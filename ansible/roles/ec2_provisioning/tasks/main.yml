@@ -1,0 +1,5 @@
+---
+# tasks file for aws-ec2
+- import_tasks: ec2_keypair.yml
+- import_tasks: ec2_sg.yml
+- import_tasks: ec2_provisioning.yml

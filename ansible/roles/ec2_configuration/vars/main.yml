@@ -1,0 +1,2 @@
+# Ansible Config
+ansible_ssh_private_key_file: /Users/mk/.ssh/ansibleKey
