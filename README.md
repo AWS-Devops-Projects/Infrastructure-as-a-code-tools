@@ -4,6 +4,7 @@
 ## Tools can be used as Infrastructure as Code
 Try out some IaC tools to provision EC2 instance on AWS.
 
+
 **Table of Contents**
 - [Workflow](#workflow)
 - [Create SSH Key](#create-ssh-key)
