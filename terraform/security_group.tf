@@ -32,3 +32,4 @@ resource "aws_key_pair" "key_pair" {
     NAME = "terraform-KeyPair"
   }
 }
+
