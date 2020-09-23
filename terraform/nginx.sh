@@ -3,6 +3,7 @@
 yum update -y
 yum install docker -y
 
+
 service docker enable
 service docker start
 
