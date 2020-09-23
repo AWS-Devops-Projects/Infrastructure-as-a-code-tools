@@ -12,3 +12,4 @@ sg_name         = "sg_terraform"
 app_port        = "80"
 key_name        = "terraformKey"
 public_key_path = "~/.ssh/terraformKey.pub"
+
